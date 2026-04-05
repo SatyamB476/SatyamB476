@@ -91,7 +91,7 @@
   <a href="https://www.linkedin.com/in/satyam-3802b4250" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL_HERE">
+  <a href="mailto:satyambhardwaj0777@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/SatyamB476">
