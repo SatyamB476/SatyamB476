@@ -1,4 +1,4 @@
-<img width="1912" height="1060" alt="image" src="https://github.com/user-attachments/assets/3ee3b58b-fff8-49b9-a94e-2ca246f167dd" /><h1 align="center">Hi 👋, I'm Satyam</h1>
+<h1 align="center">Hi 👋, I'm Satyam</h1>
 <h3 align="center">Final Year CS Student | Data Analyst | Building AI-powered Analytics Tools</h3>
 
 <p align="center">
