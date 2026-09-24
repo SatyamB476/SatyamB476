@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Final Year B.Tech (Computer Science)
+- 🎓 Computer Science Engineer
 - 📊 Data Analyst focused on building real-world, end-to-end analytics dashboards
 - 🛠️ Skilled in Python, SQL, Pandas, Plotly & data visualization
 - 📈 Analyzed datasets of **1,500+ records** to extract placement and financial insights
